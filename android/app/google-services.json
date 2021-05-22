@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806952050937",
+    "firebase_url": "https://baac-astaffs.firebaseio.com",
+    "project_id": "baac-astaffs",
+    "storage_bucket": "baac-astaffs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806952050937:android:c1cdf642402827b4124228",
+        "android_client_info": {
+          "package_name": "tech.baac.hrit.baacastaffs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806952050937-cti46t4m4fibgsmi6amq0e8dcg7g2982.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5T9u2EyDu5A6kaIfhOLjyhQT00tQgw9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806952050937-cti46t4m4fibgsmi6amq0e8dcg7g2982.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
